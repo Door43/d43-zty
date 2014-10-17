@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[zty:home|Door43 (zty)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-zty|d43-zty repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-zty/archive/master.zip|d43-zty.zip]]
+
+**Recent Changes**
+{{changes>ns = zty}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/zty|Ethnologue data]]
+
